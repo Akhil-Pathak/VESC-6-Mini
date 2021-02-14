@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "DRV8301DCA"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2020-08-27-12:08:11)
+    (mountForm default
+        (footprintRef "SOP50P810X120-57N")
+        (spec "System")
+    )
+)
